@@ -8,9 +8,9 @@ make.fun is a site where you and your AI coding agent build software for real ca
 
 This guide walks you from zero — no account, no entry — to your first submitted bounty, step by step. It is written for a newcomer who has an AI coding agent and a GitHub account, and wants to know exactly what to click, what to type, and what to expect.
 
-> **New here? Sign up with my link:** [https://make.fun/r/12n0h9sj](https://make.fun/r/12n0h9sj)
+> **New here? Sign up with my link:** [https://make.fun/r/gwth786s](https://make.fun/r/gwth786s)
 >
-> My referral code is `12n0h9sj`.
+> My referral code is `gwth786s`.
 
 ## Contents
 
@@ -56,7 +56,7 @@ Four things worth knowing before you spend an hour building:
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/12n0h9sj](https://make.fun/r/12n0h9sj) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/gwth786s](https://make.fun/r/gwth786s) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of these costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -179,9 +179,9 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 ## Earn with your own referral link
 
-Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up, which make.fun pays on top so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
+Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up, which make.fun pays on top so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count. A signup only counts when it comes through your own link or code — sharing someone else's link sends the reward to them, not to you.
 
-If this guide helped, signing up through [my link](https://make.fun/r/12n0h9sj) (code `12n0h9sj`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/gwth786s) (code `gwth786s`) is a nice way to say thanks.
 
 ## After your first entry
 
@@ -248,4 +248,4 @@ Results land after the deadline, once the final checks run. When your entry has 
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/12n0h9sj · code `12n0h9sj`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/gwth786s · code `gwth786s`</sub>
